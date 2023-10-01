@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/wishList.css'
 
-import {MdOutlineAttachMoney} from 'react-icons/md'
+// import {MdOutlineAttachMoney} from 'react-icons/md'
 import {BsFillCartDashFill} from 'react-icons/bs'
 
 export default function WishList({wishList, deleteFromWishList}) {
