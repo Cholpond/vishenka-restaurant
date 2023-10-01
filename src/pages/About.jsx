@@ -6,8 +6,8 @@ import {AiFillHome} from 'react-icons/ai'
 function About({menu}) {
     const params = useParams();
     const activeMenu=menu.find((item)=>item.title===params.title)
-    const {title,price,category,desc, id}=activeMenu
-    
+    const {title,category,desc, id}=activeMenu
+    //price was here
     
 
   return (
