@@ -2,7 +2,7 @@ import React from 'react'
 import '../styles/Shopping.css'
 
 import {MdOutlineAttachMoney} from 'react-icons/md'
-import {IoIosRemoveCircle} from 'react-icons/io'
+// import {IoIosRemoveCircle} from 'react-icons/io'
 import {BsFillCartDashFill} from 'react-icons/bs'
 
 
