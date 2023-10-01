@@ -17,7 +17,7 @@ function About({menu}) {
     <h1>{title.toUpperCase()}</h1>
     <div className='single-item'>
       <div className='item-left'>
-        <img src={`/images/item-${id}.jpeg`} alt="" />
+        <img src={`/images/item-${id}.jpeg`} alt='menu'/>
       </div>
       <div className="item-right">
          

@@ -17,7 +17,7 @@ import ShoppingList from './pages/ShoppingList';
 import WishList from './pages/WishList';
 
 const url =
-  'https://api.mocki.io/v2/719a7f59'
+  'https://api.mocki.io/v2/719a7f59';
 
 const App = () => {
   const [data, setData] = useState('');
